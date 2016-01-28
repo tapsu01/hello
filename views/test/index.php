@@ -1,0 +1,1 @@
+<h1>This is controller index</h1>
